@@ -14,27 +14,11 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 
 ### 📊 Dynamic Stats & Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/meraj-its-official)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/meraj-its-official)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Activity Graph"
-  />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true)](https://github.com/meraj-its-official)
 
 ---
 
