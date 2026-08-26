@@ -21,14 +21,7 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true)](https://github.com/meraj-its-official)
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=meraj-its-official&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=meraj-its-official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="97%" alt="GitHub Trophies" />
 </div>
 
 ---
