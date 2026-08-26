@@ -15,7 +15,7 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 ### 📊 Dynamic Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" /> <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" /> <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
