@@ -14,22 +14,18 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 
 ### 📊 Dynamic Stats & Activity
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=apna_real_username&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=apna_real_username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <!-- Yahan APNA_USERNAME ko apne GitHub handle se replace karein -->
+  <img src="https://github-readme-stats-git-masterrstl-rickstaa.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstl-rickstaa.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apna_real_username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apna_real_username&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -65,10 +61,13 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/md-meraj-alam-0724b8218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:merajalam36930+githubquery@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://x.com/meraj_alam13" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
 </p>
