@@ -15,16 +15,25 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 ### 📊 Dynamic Stats & Activity
 
 <p align="center">
-  <!-- Yahan APNA_USERNAME ko apne GitHub handle se replace karein -->
-  <img src="https://github-readme-stats-git-masterrstl-rickstaa.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstl-rickstaa.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Activity Graph"
+  />
 </p>
 
 ---
