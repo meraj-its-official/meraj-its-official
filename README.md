@@ -13,15 +13,11 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 ---
 
 ### 📊 Dynamic Stats & Activity
-
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/meraj-its-official)
-
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/meraj-its-official)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meraj-its-official&theme=tokyo-night&hide_border=true&area=true)](https://github.com/meraj-its-official)
+### 📊 Dynamic Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meraj-its-official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="97%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" /> <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
 ---
