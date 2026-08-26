@@ -5,7 +5,7 @@
 
 ### Full Stack Software Engineer | Distributed Systems & GenAI
 
-A practical, production-focused software engineer pursuing a **B.Sc. in Computer Science & Data Analysis** (Semester-IV Topper with **9.75 CGPA**). Focused on building scalable monorepos, event-driven backends, and AI agent architectures.
+A practical, production-focused Software Engineer Passionate Computer Science student at **Indian Institute of Technology, Patna''27**, pursuing a **Bachelor of Science in Computer Science & Data Analysis**. Currently building expertise as a Full Stack Developer with strong foundations and Focused on building scalable monorepos, turborepos, system-design, DevOps, Cloud-Computing, event-driven backends, and AI agent architectures.
 
 - 🛠️ **Core Stack:** TypeScript, Next.js, Node.js, Express, PostgreSQL, Prisma, WebSockets, Docker
 - 🤖 **Exploring:** Autonomous AI Agents, RAG Pipelines, `pgvector`, LangGraph
