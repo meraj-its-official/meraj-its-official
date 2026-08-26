@@ -13,7 +13,6 @@ A practical, production-focused software engineer pursuing a **B.Sc. in Computer
 ---
 
 ### 📊 Dynamic Stats & Activity
-### 📊 Dynamic Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" /> <br/>
