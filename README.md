@@ -6,8 +6,8 @@
 
 A practical, production-focused Software Engineer Passionate Computer Science student at **Indian Institute of Technology, Patna''27**, pursuing a **Bachelor of Science in Computer Science & Data Analysis**. Currently building expertise as a Full Stack Developer with strong foundations and Focused on building scalable monorepos, turborepos, system-design, DevOps, Cloud-Computing, event-driven backends, and AI agent architectures.
 
-- 🛠️ **Core Stack:** TypeScript, Next.js, Node.js, Express, PostgreSQL, Prisma, WebSockets, Docker
-- 🤖 **Exploring:** Autonomous AI Agents, RAG Pipelines, `pgvector`, LangGraph
+- 🛠️ **Core Stack:** TypeScript, Next.js, Node.js, Express, Nest, Hono, PostgreSQL, MongoDB, Cloudflare, Prisma, Turborepo, WebSockets, Docker, System Design 
+- 🤖 **Exploring:** Autonomous AI Agents, RAG Pipelines, Pgvector, LangGraph, LangChain, MCP, Machine Learning, Deep Learning, NLP, Computer Vision, etc
 - ⚡ **Engineering Mindset:** Strictly zero DSA grinding; 100% focused on real-world system architecture, high throughput APIs, and clean codebases.
 
 ---
