@@ -25,6 +25,15 @@ A practical, production-focused Software Engineer Passionate Computer Science st
       />
       <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
     </picture>
+  </a> <br/>
+   <a href="https://github.com/meraj-its-official/github-readme-Advanced-Transaction-App">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=meraj-its-official&repo=github-readme-Advanced-Transaction-App&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=meraj-its-official&repo=github-readme-Advanced-Transaction-App&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
   </a>
 </div>
 
