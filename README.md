@@ -15,24 +15,32 @@ A practical, production-focused Software Engineer Passionate Computer Science st
 ### 📊 Dynamic Stats & Activity
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" /> <br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" /><br/>
+  <img src="https://github-stats-extended.vercel.app/api?username=meraj-its-official&show_icons=true&theme=dark_github_repocard&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" /> <br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=dark_github_repocard&langs_count=6" alt="Top Languages" width="48%" /><br/>
    <a href="https://wakatime.com/@6a9f2a21-de85-40b7-a4d3-6fa50f554cce">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&langs_count=6&theme=tokyonight&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&langs_count=6&theme=dark_github_repocard"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&layout=compact&theme=light_github_repocard&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
     </picture>
   </a> <br/>
-   <a href="https://github.com/meraj-its-official/github-readme-Advanced-Transaction-App">
+   <a href="https://github.com/meraj-its-official/AI-Website-Builder">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=meraj-its-official&repo=github-readme-Advanced-Transaction-App&theme=dark_github_repocard"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=meraj-its-official&repo=AI-Website-Builder&theme=dark_github_repocard"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=meraj-its-official&repo=github-readme-Advanced-Transaction-App&theme=light_github_repocard" alt="Readme Card" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=meraj-its-official&repo=AI-Website-Builder&theme=light_github_repocard" width="48%" alt="Repo Card" />
+    </picture>
+  </a> <br/>
+   <a>
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/?username=meraj-its-official&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=MD+MERAJ+ALAM's+GitHub+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/?username=meraj-its-official&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=MD+MERAJ+ALAM's+GitHub+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" width="48%"/>
     </picture>
   </a>
 </div>
