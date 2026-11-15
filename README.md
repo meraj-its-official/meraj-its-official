@@ -20,10 +20,10 @@ A practical, production-focused Software Engineer Passionate Computer Science st
    <a href="https://wakatime.com/@6a9f2a21-de85-40b7-a4d3-6fa50f554cce">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&langs_count=6&theme=tokyonight&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&langs_count=6&theme=tokyonight&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
     </picture>
   </a>
 </div>
