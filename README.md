@@ -17,13 +17,13 @@ A practical, production-focused Software Engineer Passionate Computer Science st
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=meraj-its-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" /> <br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" /><br/>
-   <a href="https://wakatime.com/@alan">
+   <a href="https://wakatime.com/@6a9f2a21-de85-40b7-a4d3-6fa50f554cce">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&langs_count=6&theme=tokyonight&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&langs_count=6&theme=tokyonight&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&v=2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=6a9f2a21-de85-40b7-a4d3-6fa50f554cce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Meraj's WakaTime stats" width="48%" />
     </picture>
   </a>
 </div>
