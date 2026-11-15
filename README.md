@@ -19,7 +19,13 @@ A practical, production-focused Software Engineer Passionate Computer Science st
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meraj-its-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meraj-its-official&langs_count=4&theme=light_github" alt="Top Langs" />
 </div>
-
+ <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 ---
 
 ### 💻 Tech Stack & Tooling
